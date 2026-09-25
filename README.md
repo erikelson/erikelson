@@ -78,32 +78,6 @@
 
 ---
 
-## 🚀 &nbsp;Projetos em Destaque
-
-<div align="center">
-
-<a href="https://github.com/erikelson/html-frontend-2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erikelson&repo=html-frontend-2&theme=tokyonight&bg_color=0a0e27&border_color=00d4ff&title_color=00d4ff&icon_color=ff6b35&text_color=c9d1d9" />
-</a>
-&nbsp;
-<a href="https://github.com/erikelson/plataforma-de-streaming-fase2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erikelson&repo=plataforma-de-streaming-fase2&theme=tokyonight&bg_color=0a0e27&border_color=00d4ff&title_color=00d4ff&icon_color=ff6b35&text_color=c9d1d9" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/erikelson/plataforma-de-streaming">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erikelson&repo=plataforma-de-streaming&theme=tokyonight&bg_color=0a0e27&border_color=00d4ff&title_color=00d4ff&icon_color=ff6b35&text_color=c9d1d9" />
-</a>
-&nbsp;
-<a href="https://github.com/erikelson/sistema-loja-exception">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erikelson&repo=sistema-loja-exception&theme=tokyonight&bg_color=0a0e27&border_color=00d4ff&title_color=00d4ff&icon_color=ff6b35&text_color=c9d1d9" />
-</a>
-
-</div>
-
----
-
 ## 🐍 &nbsp;Contribuições
 
 <div align="center">
