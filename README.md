@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="./banner.jpg" alt="Erikelson Souza - Full Stack Developer" width="100%" />
+<img src="./banner.jpg" alt="Erikelson Souza - Full Stack Developer" width="850" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+o+Erikelson+Souza;%F0%9F%8E%93+Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;%F0%9F%92%BB+Apaixonado+por+tecnologia+e+inova%C3%A7%C3%A3o" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=31EBF7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Ol%C3%A1,%20seja%20bem%20vindo(a)%20ao%20meu%20github!;%F0%9F%8E%93+Sou%20Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;%F0%9F%92%BB+Apaixonado+por+tecnologia+e+inova%C3%A7%C3%A3o" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -15,29 +15,6 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=erikelson&style=for-the-badge&color=00d4ff&label=VISUALIZAÇÕES)](https://github.com/erikelson)
 
 </div>
-
----
-
-## 🧑‍💻 &nbsp;Sobre Mim
-
-```yaml
-nome: Erikelson Souza
-formação: Sistemas de Informação
-localização: Brasil 🇧🇷
-foco_atual: Desenvolvimento Full Stack & Business Intelligence
-aprendendo: React, Node.js, Spring Boot, SwiftUI
-objetivo: Construir soluções que transformem ideias em realidade
-```
-
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF"/>
-
-- 🔭 &nbsp;Atualmente estudando **Sistemas de Informação**
-- 🌱 &nbsp;Focado em **Full Stack Development** e **BI**
-- ⚡ &nbsp;Apaixonado por resolver problemas com código
-- 🎯 &nbsp;Objetivo: contribuir com projetos open-source
-- 💬 &nbsp;Pergunte-me sobre **Java, JavaScript, React**
-
-<br clear="both"/>
 
 ---
 
