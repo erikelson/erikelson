@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="./banner.jpg" alt="Erikelson Souza - Full Stack Developer" width="850" />
+<img src="./banner.jpg" alt="Erikelson Souza - Full Stack Developer" width="1236" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
@@ -11,6 +11,7 @@
 <br/>
 
 <!-- SOCIAL BADGES -->
+
 [![GitHub followers](https://img.shields.io/github/followers/erikelson?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27&color=00d4ff)](https://github.com/erikelson)
 [![Profile Views](https://komarev.com/ghpvc/?username=erikelson&style=for-the-badge&color=00d4ff&label=VISUALIZAÇÕES)](https://github.com/erikelson)
 
@@ -23,6 +24,7 @@
 <div align="center">
 
 ### 💻 &nbsp;Linguagens
+
 ![Python](https://img.shields.io/badge/Python-0a0e27?style=for-the-badge&logo=python&logoColor=00d4ff)
 ![Java](https://img.shields.io/badge/Java-0a0e27?style=for-the-badge&logo=openjdk&logoColor=00d4ff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0a0e27?style=for-the-badge&logo=javascript&logoColor=00d4ff)
@@ -31,21 +33,25 @@
 ![SQL](https://img.shields.io/badge/SQL-0a0e27?style=for-the-badge&logo=postgresql&logoColor=00d4ff)
 
 ### 🌐 &nbsp;Frontend
+
 ![HTML5](https://img.shields.io/badge/HTML5-0a0e27?style=for-the-badge&logo=html5&logoColor=00d4ff)
 ![CSS3](https://img.shields.io/badge/CSS3-0a0e27?style=for-the-badge&logo=css3&logoColor=00d4ff)
 ![React](https://img.shields.io/badge/React-0a0e27?style=for-the-badge&logo=react&logoColor=00d4ff)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0a0e27?style=for-the-badge&logo=swift&logoColor=00d4ff)
 
 ### ⚙️ &nbsp;Backend & Frameworks
+
 ![Node.js](https://img.shields.io/badge/Node.js-0a0e27?style=for-the-badge&logo=node.js&logoColor=00d4ff)
 ![Express.js](https://img.shields.io/badge/Express.js-0a0e27?style=for-the-badge&logo=express&logoColor=00d4ff)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0a0e27?style=for-the-badge&logo=springboot&logoColor=00d4ff)
 
 ### 🗄️ &nbsp;Banco de Dados
+
 ![MySQL](https://img.shields.io/badge/MySQL-0a0e27?style=for-the-badge&logo=mysql&logoColor=00d4ff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0a0e27?style=for-the-badge&logo=mongodb&logoColor=00d4ff)
 
 ### 🔧 &nbsp;Ferramentas & Outros
+
 ![Git](https://img.shields.io/badge/Git-0a0e27?style=for-the-badge&logo=git&logoColor=00d4ff)
 ![GitHub](https://img.shields.io/badge/GitHub-0a0e27?style=for-the-badge&logo=github&logoColor=00d4ff)
 ![npm](https://img.shields.io/badge/npm-0a0e27?style=for-the-badge&logo=npm&logoColor=00d4ff)
