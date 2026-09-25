@@ -1,7 +1,13 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="./banner.jpg" alt="Erikelson Souza - Full Stack Developer" width="1236" />
+
+<img
+  src="./banner.jpg"
+  alt="Erikelson Souza - Full Stack Developer"
+  width="1236"
+  height="263"
+/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
